@@ -12,4 +12,4 @@ Getting Started
 
 ### Demo
 ------------------------
-![demo_data](https://github.com/ShwetaChauhan18/GooglePlacesAutoComplete/blob/master/images/device-2020-02-24-162757.png)
+![demo_data](https://github.com/ShwetaChauhan18/GooglePlacesAutoComplete/blob/master/images/device-2020-02-24-163355.png)
