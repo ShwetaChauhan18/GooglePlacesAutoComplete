@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <fragment
+        android:id="@+id/mapLocation"
+        android:name="com.google.android.gms.maps.MapFragment"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="@dimen/_2sdp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/autoCompleteEditText"/>
+
+    <androidx.appcompat.widget.AppCompatAutoCompleteTextView
+        android:id="@+id/autoCompleteEditText"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="0.9"
+        android:gravity="start"
+        android:hint="Enter Location or Drag map to select location"
+        android:padding="@dimen/_10sdp"
+        android:singleLine="true"
+        android:textColor="@color/color_black_two"
+        android:textColorHint="@color/color_brown_grey"
+        android:textSize="@dimen/_13ssp"
+        app:layout_constraintStart_toStartOf="@+id/mapLocation"
+        app:layout_constraintEnd_toEndOf="@+id/mapLocation"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

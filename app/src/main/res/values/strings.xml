@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GooglePlacesAutoComplete</string>
+    <string name="google_maps_key">123456</string>
+</resources>
