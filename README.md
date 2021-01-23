@@ -18,6 +18,11 @@ ESTABLISHMENT,
 GEOCODE,
 REGIONS
 
+Change this filter :
+- open MapExtention
+- getAutocomplete Method
+- setTypeFilter(TypeFilter.CITIES)
+
 ### Demo
 ------------------------
 TypeFilter.ADDRESS
