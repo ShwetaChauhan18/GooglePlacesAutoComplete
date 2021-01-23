@@ -18,8 +18,8 @@ ESTABLISHMENT,
 GEOCODE,
 REGIONS
 
-Change this filter :
-- open MapExtention
+######Change this filter :
+- open MapExtention File
 - getAutocomplete Method
 - setTypeFilter(TypeFilter.CITIES)
 
