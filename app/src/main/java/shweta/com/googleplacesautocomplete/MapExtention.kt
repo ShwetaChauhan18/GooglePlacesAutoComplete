@@ -45,7 +45,7 @@ fun GoogleMap.moveCameraOnMapBound(latLng: LatLngBounds?) {
 fun getAutocomplete(mPlacesClient: PlacesClient, constraint: CharSequence): List<AutocompletePrediction> {
     var list = listOf<AutocompletePrediction>()
     val token = AutocompleteSessionToken.newInstance()
-    val request = FindAutocompletePredictionsRequest.builder().setTypeFilter(TypeFilter.ADDRESS).setSessionToken(token).setQuery(constraint.toString()).build()
+    val request = FindAutocompletePredictionsRequest.builder().setTypeFilter(TypeFilter.CITIES).setSessionToken(token).setQuery(constraint.toString()).build()
     val prediction = mPlacesClient.findAutocompletePredictions(request)
     try {
         Tasks.await(prediction, TASK_AWAIT, TimeUnit.SECONDS)
