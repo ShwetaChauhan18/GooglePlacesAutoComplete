@@ -35,4 +35,4 @@ TypeFilter.CITIES
 
 ![demo_data](https://github.com/ShwetaChauhan18/GooglePlacesAutoComplete/blob/master/images/city_search.png)
 
-## If this helps you in anyway, show your love :heart: by putting a :star: on this project :v:
+### If this helps you in anyway, show your love :heart: by putting a :star: on this project :v:
