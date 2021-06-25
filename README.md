@@ -34,4 +34,4 @@ Support it by joining __[stargazers]__ for this repository.⭐
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
-   [stargazers]: <https://github.com/ShwetaChauhan18/GooglePlacesAutoComplete/stargazers>
+   [stargazers]: <https://github.com/ShwetaChauhan18/GooglePlacesAutoComplete/stargazers> 
