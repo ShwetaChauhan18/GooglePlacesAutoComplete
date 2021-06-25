@@ -14,7 +14,7 @@ TypeFilter
 ------------------------
 - ADDRESS 📍,
 - CITIES 🌆 ,
-- ESTABLISHMENT ✨ S,
+- ESTABLISHMENT ✨ ,
 - GEOCODE 🎯 ,
 - REGIONS 🇮🇳
 
