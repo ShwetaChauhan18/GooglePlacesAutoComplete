@@ -12,11 +12,11 @@ Getting Started
 
 TypeFilter
 ------------------------
-ADDRESS,
-CITIES,
-ESTABLISHMENT,
-GEOCODE,
-REGIONS
+- ADDRESS 📍,
+- CITIES 🌆 ,
+- ESTABLISHMENT ✨ S,
+- GEOCODE 🎯 ,
+- REGIONS 🇮🇳
 
 ###### Change this filter :
 - open MapExtention File
