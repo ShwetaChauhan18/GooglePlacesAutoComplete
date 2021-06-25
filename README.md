@@ -27,7 +27,6 @@ REGIONS
 
 | TypeFilter.ADDRESS | TypeFilter.CITIES |
 |--|--|
-| ![](https://github.com/ShwetaChauhan18/GooglePlacesAutoComplete/blob/master/images/google_place_address.gif) |
- ![](https://github.com/ShwetaChauhan18/GooglePlacesAutoComplete/blob/master/images/google_place_city.gif) |
+| ![](https://github.com/ShwetaChauhan18/GooglePlacesAutoComplete/blob/master/images/google_place_address.gif) | ![](https://github.com/ShwetaChauhan18/GooglePlacesAutoComplete/blob/master/images/google_place_city.gif) |
 
 ### If this helps you in anyway, show your love :heart: by putting a :star: on this project :v:
