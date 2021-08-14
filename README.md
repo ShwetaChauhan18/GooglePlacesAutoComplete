@@ -10,6 +10,10 @@ Getting Started
 ------------------------
 `GooglePlacesAutoComplete` is a small kotlin demo for auto search in google map.
 
+How to get started
+------------------------
+In MainActivity "Places.initialize(this, "GOOGLE_MAPS_KEY")", replace your google map key here "GOOGLE_MAPS_KEY".
+
 TypeFilter
 ------------------------
 - ADDRESS 📍,
